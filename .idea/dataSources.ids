@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="java:hibernate/SessionFactory" uuid="0106cfc4-71a9-4be6-b1b4-e92185b787b7">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="hibernate.cfg.xml" uuid="4b6acc98-769e-4b2c-bba3-27efb4920869">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2457474911">
+    <data-source source="LOCAL" name="java:hibernate/SessionFactory" uuid="0106cfc4-71a9-4be6-b1b4-e92185b787b7">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost/test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9adf93df92df98</user-password>
+      <libraries>
+        <library>
+          <url>file://C:\Users\pivovarov.v\.m2\repository\mysql\mysql-connector-java\5.1.6\mysql-connector-java-5.1.6.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="hibernate.cfg.xml" uuid="4b6acc98-769e-4b2c-bba3-27efb4920869">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <libraries>
+        <library>
+          <url>file://C:\Users\pivovarov.v\.m2\repository\mysql\mysql-connector-java\5.1.6\mysql-connector-java-5.1.6.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

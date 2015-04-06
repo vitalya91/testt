@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/tenet/inet_shop/DAO/RegistrationDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/tenet/inet_shop/DAO/RegistrationDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/tenet/inet_shop/client/client_get.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/tenet/inet_shop/client/client_write.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/tenet/inet_shop/controller/restful.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/tenet/inet_shop/model/Registration.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/tenet/inet_shop/service/Service.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/tenet/inet_shop/service/ServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/root-context.xml" charset="UTF-8" />
+  </component>
+</project>
+
